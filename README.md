@@ -15,10 +15,10 @@ Welcome to my GitHub profile! I’m a **student** passionate about **Full Stack 
 
 ## 🛠️ Skills
 
-- **Languages:** JavaScript, Python, Java (and more!)
+- **Languages:** JavaScript, Python, C++ (and more!)
 - **Frameworks:** Node.js, React, Express
-- **Backend:** API development, Databases, Authentication
-- **Tools:** Git, VS Code, Docker
+- **Backend:** API development, Databases, Authentication, QR-Attendance
+- **Tools:** Git, VS Code, Docker, Node js, Expo
 
 ---
 
@@ -38,8 +38,7 @@ Welcome to my GitHub profile! I’m a **student** passionate about **Full Stack 
 
 ## 🤝 Connect with Me
 
-<!-- Add your social/portfolio links below if you wish! -->
-<!-- Example:
+<!-- 
 - [LinkedIn](https://www.linkedin.com/in/yourprofile)
 - [Portfolio](https://yourwebsite.com)
 -->
