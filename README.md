@@ -7,7 +7,7 @@ Welcome to my GitHub profile! I’m a **student** passionate about **Full Stack 
 ## 🚀 About Me
 
 - 🎓 **Student** constantly learning and experimenting
-- 💻 **Full Stack Developer** (with a backend focus)
+- 💻 **Full Stack Developer**
 - 🏅 **Certified by DP Education**
 - 🧑‍💻 Coding is my favorite hobby!
 
@@ -16,15 +16,9 @@ Welcome to my GitHub profile! I’m a **student** passionate about **Full Stack 
 ## 🛠️ Skills
 
 - **Languages:** JavaScript, Python, C++ (and more!)
-- **Frameworks:** Node.js, React, Express
+- **Frameworks:** Node.js, React, Express, Next Js
 - **Backend:** API development, Databases, Authentication, QR-Attendance
-- **Tools:** Git, VS Code, Docker, Node js, Expo
-
----
-
-## 📚 Certifications
-
-- DP Education Full Stack Development
+- **Tools:** Git, VS Code, Node js,
 
 ---
 
